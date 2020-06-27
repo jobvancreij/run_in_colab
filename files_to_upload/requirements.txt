@@ -1,0 +1,7 @@
+setuptools
+keras==2.3.0
+pandas
+numpy
+hyperopt
+pymongo==3.10.0
+dill
